@@ -4,7 +4,7 @@
 
 This project focuses on developing a machine learning model to predict diseases based on a set of symptoms provided by the user. Using various algorithms, the system classifies diseases into one of the 41 categories based on 132 different symptoms. The main goal is to provide a simple yet effective tool for healthcare diagnostics using state-of-the-art machine learning techniques. The models used in this project include **Decision Tree**, **Random Forest**, **XGBClassifier**, **K-Nearest Neighbors (KNN)**, and **Multi-Layer Perceptron (MLP)**.
 
-The project utilizes a dataset, `Augmented_Data.csv`, which contains 132 symptom columns and a target column, "Prognosis", with 41 unique diseases. The final web application, built using **Streamlit**, allows users to input symptoms and receive a predicted diagnosis.
+The project utilizes a dataset, `Augmented_Data.csv`, which contains 132 symptom columns and a target column, "Prognosis", with 41 unique diseases. The final web application, built using **Streamlit**, allows users to input symptoms and receive a predicted diagnosis. 
 
 ## Team Members
 
