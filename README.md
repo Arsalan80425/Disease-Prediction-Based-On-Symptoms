@@ -10,7 +10,6 @@ The project utilizes a dataset, `Augmented_Data.csv`, which contains 132 symptom
 
 - **Mohammad Danish Ansari (22bds039)**
 - **Mohammed Arsalan (22bds053)**
-- **Gorthi Gokul (22bds026)**
 
 ## Features
 
